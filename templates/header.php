@@ -26,7 +26,7 @@
 
   .title {
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .center {
@@ -43,7 +43,7 @@
 
 
  <div class="title">
-  <p>★六甲の館 No-Lift Chair アプリ★</p>
+  <p><b>★六甲の館 No-Lift Chair アプリ★</b></p>
  </div>
     
   </body>
