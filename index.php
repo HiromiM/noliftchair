@@ -26,7 +26,7 @@
   
   
 
-   <a href="update.php"><strong>更新する</strong></a> - 入力済み
+   <a href="update.php"><strong>更新する</strong></a> - 一覧表から
   </li> </br>
   
     <a href="delete.php"><strong>削除する</strong></a> - 廃棄
