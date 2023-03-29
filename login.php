@@ -49,7 +49,7 @@
 
     <form name="form1" action="login_act.php" method="post" style="font-size:25px; display:inline-block; vertical-align:top; margin-top:20px;">
         ログインID <input type="text" name="lid" style="font-size:25px; display:inline-block; vertical-align:top;" /><br>
-        パスワード <input type="password" name="lpw" style="font-size:25px; display:inline-block; vertical-align:top;"/><br>
+        パスワード  <input type="password" name="lpw" style="font-size:25px; display:inline-block; vertical-align:top;"/><br>
         <input type="submit" value="ログイン"style="font-size:25px; display:inline-block; vertical-align:top; margin-top:20px;" />
     </form>
 
