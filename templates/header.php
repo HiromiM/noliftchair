@@ -26,7 +26,7 @@
 
   .title {
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
   }
 
   .center {
@@ -39,11 +39,13 @@
 </style>
 
 
-    <img src="https://rokko-yakata.jp/img/slide3.jpg" class="center">
+   
 
 
  <div class="title">
-  <p><b>★六甲の館 No-Lift Chair アプリ★</b></p>
+  <p><b>六甲の館 No-Lift Chair アプリ</b></p>
+  <img src="https://rokko-yakata.jp/img/slide3.jpg" class="center">
+
  </div>
     
   </body>
