@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="css/style.css" />
 <style>
 </style>
-
+<meta name=”viewport” content=”width=device-width,initial-scale=1.0″>
 <ul>
 <br>
   <div class="container-1">
